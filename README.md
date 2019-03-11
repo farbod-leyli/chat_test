@@ -12,6 +12,7 @@ Features:
 - Showing "Seen" and "isTyping..." details for conversations
 - Real time text data transfer between users
 
-***NO TEST AND DEBUG YET
-***NO VIEW ON WEB
--*NO CONTROL ON INPUTS AND DATA
+***ATTENTION:
+ * NO TEST AND DEBUG YET
+ * NO VIEW ON WEB
+ * NO CONTROL ON INPUTS AND DATA
