@@ -13,3 +13,4 @@ Features:
 - Real time data transfer between users
 
 ***NO TEST AND DEBUG YET
+***NO VIEW ON WEB
